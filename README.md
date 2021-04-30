@@ -1,7 +1,7 @@
 ### Hello, I am Dipraj Howlader 👋
 Welcome to my GitHub Account.
 
-- 💼 I'm looking for a Web Developer Job.
+- 💼 I'm looking for a Web Developer Job ( [**My Resume**](https://drive.google.com/file/d/1WebX5oR_D1OMIvQqDhmatgAeFNKBgOsp/view?fbclid=IwAR1SEt9QQvO3RQjBGSY6eiy_lrF9xvOxuszcS-INloU9DbwuTG1BeBtSJ0Q))
 - 🔭 I’m currently working on MERN Stack Web Projects
 - 🌱 I’m currently learning React, Angular, Java.
 - 👯 I’m looking to collaborate on YouTube
