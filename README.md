@@ -18,5 +18,8 @@ Welcome to my GitHub Account.
 
 
 
+![Dipraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipraj-howlader&show_icons=true&theme=onedark)
+
+
 
 
