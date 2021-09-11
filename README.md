@@ -10,5 +10,6 @@ Welcome to my GitHub Account.
 - 📫 How to reach me:Facebook : Facebook : [Dipraj Howlader](https://www.facebook.com/your.dipraj) LinkedIn: [dipraj-howlader](https://www.linkedin.com/in/dipraj-howlader/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: At the time of coding , if I listen song, coding gets a boost!
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?dipraj-howlader=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
